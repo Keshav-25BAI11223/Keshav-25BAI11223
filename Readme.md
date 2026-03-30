@@ -1,37 +1,67 @@
-# Hi there, I'm Keshav Maheshwari 👋 
+# 🚀 Keshav Maheshwari
 
-### B.Tech CSE (AI & ML) @ Vellore Institute of Technology | Systems Enthusiast | UX Designer
+### **B.Tech Computer Science (AI & ML) @ Vellore Institute of Technology**
 
-I’m a developer who enjoys building software "from the foundation up." Whether I'm architecting custom systems or training machine learning models, I focus on creating code that is as performant as it is functional.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- **AI/ML:** ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
-- **DevOps & Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- **Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (Active UX Club Member)
+<p align="left">
+<a href="https://www.linkedin.com/in/keshavxai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:keshav.25bai11223@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Keshav-25BAI11223"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Technical Arsenal
 
-#### 📈 [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
-*A high-performance, multi-threaded desktop application combining Random Forest ML, Sentiment Analysis (NLP), and Quantitative Finance to predict market volatility.*
-
-#### 🤖 [Rag-Bot](https://github.com/Keshav-25BAI11223/Rag-Bot)
-*An implementation of Retrieval-Augmented Generation, showcasing my focus on AI architecture and specialized ML workflows.*
-
-#### 🏦 [Bank-Management-System](https://github.com/Keshav-25BAI11223/Bank-Management-System)
-*A robust backend system built with Python, emphasizing clean architecture and data integrity.*
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | `Python` `C++` `JavaScript` `SQL` |
+| **AI & ML** | `Random Forest` `NLP` `RAG Pipelines` `Scikit-learn` `Sentiment Analysis` |
+| **Systems & Architecture** | `Multi-threading` `OS Architecture` `Low-level Optimization` `System Design` |
+| **Tools & Design** | `Git/GitHub` `Figma` `UX/UI Design` `Docker` `Agile Methodology` |
 
 ---
 
-### 📫 Let's Connect!
+## 🌟 Featured Engineering Projects
 
-- **LinkedIn:** [linkedin.com/in/keshavxai](https://www.linkedin.com/in/keshavxai/)
-- **Portfolio:** *Coming Soon...*
-- **Email:** [keshav.25bai11223@vitbhopal.ac.in](mailto:keshav.25bai11223@vitbhopal.ac.in)
+### 📈 [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
+**High-Performance Market Analysis Platform**
+* **The Challenge:** Financial data is massive and volatile; standard serial processing often leads to UI lag and missed real-time trends.
+* **The Solution:** Developed a multi-threaded desktop application that bridges **Quantitative Finance** with **Machine Learning**.
+* **Technical Highlight:** Integrated **Random Forest Regression** for price trends and **NLP-based Sentiment Analysis** to gauge market mood from news feeds simultaneously.
+* **Key Tech:** Python, Scikit-learn, Multi-threading, Sentiment Analysis.
 
-> "Always open to discussing new projects, systems architecture, or the latest in dev culture."
+### 🤖 [Rag-Bot](https://github.com/Keshav-25BAI11223/Rag-Bot)
+**Specialized Retrieval-Augmented Generation**
+* **The Challenge:** Generic LLMs often lack context regarding specific private datasets, leading to inaccurate information (hallucinations).
+* **The Solution:** Built a RAG pipeline that allows for precise information retrieval from local documents before generating responses.
+* **Technical Highlight:** Optimized the vector retrieval layer to ensure the highest similarity match, creating a grounded AI assistant that prioritizes factual data.
+* **Key Tech:** Python, LLM APIs, Vector Embeddings, RAG Architecture.
+
+### 🏦 [Bank-Management-System](https://github.com/Keshav-25BAI11223/Bank-Management-System)
+**Secure Backend Financial Framework**
+* **The Challenge:** Designing a system that maintains 100% data integrity during concurrent transaction simulations.
+* **The Solution:** A robust backend system managing user accounts, secure authentication, and transaction logging.
+* **Technical Highlight:** Focused on **Object-Oriented Programming (OOP)** and clean architecture to ensure the code is modular, scalable, and easy to audit.
+* **Key Tech:** Python, OOP, File Handling/Database Management.
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keshav-25BAI11223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-25BAI11223&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 💬 Let’s Connect
+I am a developer who thrives at the intersection of **System Performance** and **Intelligent Automation**. As an active member of the **UX Club**, I believe that high-level engineering is only as good as the user experience it provides.
+
+* 🔭 **Current Focus:** Deepening my expertise in OS-level optimizations and Advanced RAG systems.
+* ⚡ **Fun Fact:** I love building systems from scratch just to see how the "gears" turn under the hood.
+
+---
+<p align="center">
+"Code is like humor. When you have to explain it, it’s bad."
+</p>
