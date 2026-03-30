@@ -46,15 +46,6 @@
 
 ---
 
-## 📊 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav-25BAI11223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-25BAI11223&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
 ## 💬 Let’s Connect
 I am a developer who thrives at the intersection of **System Performance** and **Intelligent Automation**. As an active member of the **UX Club**, I believe that high-level engineering is only as good as the user experience it provides.
 
