@@ -11,14 +11,12 @@
 
 ## <p align="center">**Technical Arsenal**</p>
 
-<p align="center">
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Programming** | `Python` `C++` `JavaScript` `SQL` |
 | **AI & ML** | `Random Forest` `NLP` `RAG Pipelines` `Scikit-learn` `Sentiment Analysis` |
 | **Systems & Architecture** | `Multi-threading` `OS Architecture` `Low-level Optimization` `System Design` |
 | **Tools & Design** | `Git/GitHub` `Figma` `UX/UI Design` `Docker` `Agile Methodology` |
-</p>
 
 ---
 
