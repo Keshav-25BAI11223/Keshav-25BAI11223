@@ -1,6 +1,6 @@
 #  <p align="center"> Keshav Maheshwari </p>
 
-### <p align="center"> **B.Tech Computer Science (AI & ML) @ Vellore Institute of Technology** </p>
+### <p align="center"> **B.Tech Computer Science And Engineering With AI And ML** </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/keshavxai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
