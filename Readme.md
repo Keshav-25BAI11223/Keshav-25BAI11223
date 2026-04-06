@@ -9,7 +9,7 @@
 
 ---
 
-## Technical Arsenal
+## <p align="center">**Technical Arsenal**</p>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -20,7 +20,7 @@
 
 ---
 
-## Featured Engineering Projects
+## <p align="center">**Featured Engineering Projects**</p>
 
 ### [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
 **High-Performance Market Analysis Platform**
@@ -45,7 +45,7 @@
 
 ---
 
-## Let’s Connect
+## <p align="center">**Let’s Connect**</p>
 I am a developer who thrives at the intersection of **System Performance** and **Intelligent Automation**. As an active member of the **UX Club**, I believe that high-level engineering is only as good as the user experience it provides.
 
 *  **Current Focus:** Deepening my expertise in OS-level optimizations and Advanced RAG systems.
