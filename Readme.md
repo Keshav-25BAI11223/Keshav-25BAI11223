@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -20,23 +20,23 @@
 
 ---
 
-## 🌟 Featured Engineering Projects
+## Featured Engineering Projects
 
-### 📈 [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
+### [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
 **High-Performance Market Analysis Platform**
 * **The Challenge:** Financial data is massive and volatile; standard serial processing often leads to UI lag and missed real-time trends.
 * **The Solution:** Developed a multi-threaded desktop application that bridges **Quantitative Finance** with **Machine Learning**.
 * **Technical Highlight:** Integrated **Random Forest Regression** for price trends and **NLP-based Sentiment Analysis** to gauge market mood from news feeds simultaneously.
 * **Key Tech:** Python, Scikit-learn, Multi-threading, Sentiment Analysis.
 
-### 🤖 [Rag-Bot](https://github.com/Keshav-25BAI11223/Rag-Bot)
+### [Rag-Bot](https://github.com/Keshav-25BAI11223/Rag-Bot)
 **Specialized Retrieval-Augmented Generation**
 * **The Challenge:** Generic LLMs often lack context regarding specific private datasets, leading to inaccurate information (hallucinations).
 * **The Solution:** Built a RAG pipeline that allows for precise information retrieval from local documents before generating responses.
 * **Technical Highlight:** Optimized the vector retrieval layer to ensure the highest similarity match, creating a grounded AI assistant that prioritizes factual data.
 * **Key Tech:** Python, LLM APIs, Vector Embeddings, RAG Architecture.
 
-### 🏦 [Bank-Management-System](https://github.com/Keshav-25BAI11223/Bank-Management-System)
+### [Bank-Management-System](https://github.com/Keshav-25BAI11223/Bank-Management-System)
 **Secure Backend Financial Framework**
 * **The Challenge:** Designing a system that maintains 100% data integrity during concurrent transaction simulations.
 * **The Solution:** A robust backend system managing user accounts, secure authentication, and transaction logging.
@@ -45,11 +45,11 @@
 
 ---
 
-## 💬 Let’s Connect
+## Let’s Connect
 I am a developer who thrives at the intersection of **System Performance** and **Intelligent Automation**. As an active member of the **UX Club**, I believe that high-level engineering is only as good as the user experience it provides.
 
-* 🔭 **Current Focus:** Deepening my expertise in OS-level optimizations and Advanced RAG systems.
-* ⚡ **Fun Fact:** I love building systems from scratch just to see how the "gears" turn under the hood.
+*  **Current Focus:** Deepening my expertise in OS-level optimizations and Advanced RAG systems.
+*  **Fun Fact:** I love building systems from scratch just to see how the "gears" turn under the hood.
 
 ---
 <p align="center">
