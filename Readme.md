@@ -11,32 +11,34 @@
 
 ## <p align="center">**Technical Arsenal**</p>
 
+<p align="center">
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Programming** | `Python` `C++` `JavaScript` `SQL` |
 | **AI & ML** | `Random Forest` `NLP` `RAG Pipelines` `Scikit-learn` `Sentiment Analysis` |
 | **Systems & Architecture** | `Multi-threading` `OS Architecture` `Low-level Optimization` `System Design` |
 | **Tools & Design** | `Git/GitHub` `Figma` `UX/UI Design` `Docker` `Agile Methodology` |
+</p>
 
 ---
 
 ## <p align="center">**Featured Engineering Projects**</p>
 
-### [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
+### 1. [Stock-Predictor](https://github.com/Keshav-25BAI11223/Stock-Predictor)
 **High-Performance Market Analysis Platform**
 * **The Challenge:** Financial data is massive and volatile; standard serial processing often leads to UI lag and missed real-time trends.
 * **The Solution:** Developed a multi-threaded desktop application that bridges **Quantitative Finance** with **Machine Learning**.
 * **Technical Highlight:** Integrated **Random Forest Regression** for price trends and **NLP-based Sentiment Analysis** to gauge market mood from news feeds simultaneously.
 * **Key Tech:** Python, Scikit-learn, Multi-threading, Sentiment Analysis.
 
-### [Rag-Bot](https://github.com/Keshav-25BAI11223/Rag-Bot)
+### 2. [Rag-Bot](https://github.com/Keshav-25BAI11223/Rag-Bot)
 **Specialized Retrieval-Augmented Generation**
 * **The Challenge:** Generic LLMs often lack context regarding specific private datasets, leading to inaccurate information (hallucinations).
 * **The Solution:** Built a RAG pipeline that allows for precise information retrieval from local documents before generating responses.
 * **Technical Highlight:** Optimized the vector retrieval layer to ensure the highest similarity match, creating a grounded AI assistant that prioritizes factual data.
 * **Key Tech:** Python, LLM APIs, Vector Embeddings, RAG Architecture.
 
-### [Bank-Management-System](https://github.com/Keshav-25BAI11223/Bank-Management-System)
+### 3. [Bank-Management-System](https://github.com/Keshav-25BAI11223/Bank-Management-System)
 **Secure Backend Financial Framework**
 * **The Challenge:** Designing a system that maintains 100% data integrity during concurrent transaction simulations.
 * **The Solution:** A robust backend system managing user accounts, secure authentication, and transaction logging.
